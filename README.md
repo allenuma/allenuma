@@ -19,7 +19,7 @@ Over the past decade, I've built humanoid robots, spacecraft robotic components,
 
 My journey has been driven by curiosity and the desire to understand complex systems—and build ones that move, adapt, and interact intelligently with the world. I believe that the future of robotics lies in systems that are both physically robust and intelligently adaptive. 
 
-More than a career, Robotics for me is a medium to **merge physics, computation, and imagination** to address real world problems that matter.
+For me, robotics is more than a career — it’s a way to merge physics, computation, and imagination to tackle real-world problems that matter
 
 
 

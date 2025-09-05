@@ -8,6 +8,8 @@ Pasadena, CA • allenuma@usc.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/allenuma) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allenuma@usc.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](http://github.com/allenuma)
+[![USC CD3 (Maroon)](https://img.shields.io/badge/USC%20CD3-maroon?style=for-the-badge&logo=university/&logoColor=white)](https://sites.usc.edu/oberai/)
+[![Allen Umali – JPL (Orange)](https://img.shields.io/badge/Allen%20Umali-JPL-orange?style=for-the-badge&logo=nasa&logoColor=white)](https://robotics.jpl.nasa.gov/who-we-are/people/allen-umali/)
 
 ---
 
@@ -48,6 +50,11 @@ Focus: Thermal / Fluids
 
 ![Stevens](https://img.shields.io/badge/Stevens_Institute_of_Technology_Hoboken,_NJ-800000?style=for-the-badge&logo=university&logoColor=ffffff)  
 **B.E., Mechanical Engineering**  
+
+## Publications
+2023 <br>
+1. A. Brinkman, J. Karras, D. Zhu, N. Abcouwer, T. Brown, G. Kubiak, A. Umali, L. Tse, J. Zitkus, R. Mccormick, "Leveraging Ingenuity Software and Avionics to Enable Robotic Arm Sampling for COLDArm," 2023 IEEE Aerospace Conference, Big Sky, MT, USA, pp. 1-9, 04 March 2023.
+2. D. Newill-Smith, J. Shatts, R. P. Dillon, J. Karras, A. Brinkman, S. Backus, A. Umali, R. McCormick, L. Fradet, J. Laramee, G. Levanas, and R. Fleischner, "Cold Operable Lunar Deployable Arm (COLDArm) System Development and Test," 2023 IEEE Aerospace Conference, Big Sky, MT, USA, pp. 1-19, doi: 10.1109/AERO55745.2023.10115649, 04 March 2023.
 
 
 ## Core Competencies & Skills

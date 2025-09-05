@@ -1,0 +1,25 @@
+This project includes simulation visuals generated using the MuJoCo physics engine
+and robot models from the MuJoCo Menagerie.
+
+---
+
+MuJoCo: Multi-Joint dynamics with Contact
+- Developed by: DeepMind (originally by Emanuel Todorov)
+- Source: https://github.com/deepmind/mujoco
+- License: Apache License 2.0
+- Citation:
+    Emanuel Todorov. "MuJoCo: A physics engine for model-based control."
+    Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015.
+
+---
+
+UR5e Model from MuJoCo Menagerie:
+- Based on the UR5e robot by Universal Robots.
+- Provided as part of the MuJoCo Menagerie collection.
+- Source: https://github.com/deepmind/mujoco_menagerie
+- License: Apache License 2.0
+- The UR5e is a product of Universal Robots (https://www.universal-robots.com/).
+
+---
+
+These assets are used here for research and visualization purposes only.

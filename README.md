@@ -132,6 +132,7 @@ Generative AI (GANs, Diffusion Models, Flow Matching), Scientific ML (PINNs, Dee
   </tr>
       <td align="center">
       <a href="https://github.com/yourusername/project1">
+        <img src="./assets/cycloid/im3.png" width="400" />
         <img src="./assets/cycloid/im0.png" width="300" />
         <img src="./assets/cycloid/im1.png" width="295" />
         <img src="./assets/cycloid/im2.png" width="400" />

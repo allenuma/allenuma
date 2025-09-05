@@ -111,6 +111,15 @@ Generative AI (GANs, Diffusion Models, Flow Matching), Scientific ML (PINNs, Dee
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/project1">
+        <img src="./assets/ur5e/ur5e.gif" width="500" />
+      </a>
+      <br>
+      <strong><a href="https://github.com/yourusername/project1"> Fun with Joint Space Control</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/project1">
         <img src="./assets/stereo/recycle_summary.png" width="250" />
         <img src="./assets/stereo/bike_summary.png" width="250" />
         <img src="./assets/stereo/umbrella_summary.png" width="250" />

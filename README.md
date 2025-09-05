@@ -120,10 +120,10 @@ Generative AI (GANs, Diffusion Models, Flow Matching), Scientific ML (PINNs, Dee
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/project1">
-        <img src="./assets/stereo/recycle_summary.png" width="250" />
-        <img src="./assets/stereo/bike_summary.png" width="250" />
-        <img src="./assets/stereo/umbrella_summary.png" width="250" />
-        <img src="./assets/stereo/chess2_summary.png" width="250" />
+        <img src="./assets/stereo/im0.png" width="250" />
+        <img src="./assets/stereo/im1.png" width="250" />
+        <img src="./assets/stereo/im2.png" width="250" />
+        <img src="./assets/stereo/im3.png" width="250" />
       </a>
       <br>
       <strong><a href="https://github.com/yourusername/project1"> Stereo Depth Estimation</a></strong>

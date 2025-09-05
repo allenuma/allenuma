@@ -115,12 +115,12 @@ Generative AI (GANs, Diffusion Models, Flow Matching), Scientific ML (PINNs, Dee
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/project1">
-        <img src="./assets/flow/unconditional.gif" width="500" />
-        <img src="./assets/flow/conditional.gif" width="500" />
-      </a>
-      <br>
-      <strong><a href="https://github.com/yourusername/project1"> Flow Matching</a></strong>
+      <img src="assets/flow/unconditional.gif" width="400"><br>
+      <sub><b>Unconditional Flow Matching</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/flow/conditional.gif" width="400"><br>
+      <sub><b>Conditional Flow Matching</b></sub>
     </td>
   </tr>
       <td align="center">

@@ -1,6 +1,5 @@
 <!-- 👋 Hi there, I'm Allen Umali -->
-# <img src="assets/icons/robot.png" width="25" alt="Robot Icon" /> Hi there, I'm Allen
-**Allen Umali**
+# <img src="assets/icons/robot.png" width="25" alt="Robot Icon" /> Allen Umali
 
 **Senior Staff Robotics Engineer @ Agility Robotics, Former NASA-JPL**  
 Pasadena, CA • allenuma@usc.com  
@@ -15,26 +14,24 @@ Pasadena, CA • allenuma@usc.com
 
 ## About Me
 
-Roboticist who thrives at the intersection of **mechanical design, intelligent systems, and purposeful innovation**.
+Robotics Engineer
 
-Over the past decade, I've built humanoid robots, spacecraft robotic components, and Lunar and Mars surface robotic mobile manipulators that push the boundaries of what's possible in autonomous systems.
-
-My journey has been driven by curiosity and the desire to understand complex systems—and build ones that move, adapt, and interact intelligently with the world. I believe that the future of robotics lies in systems that are both physically robust and intelligently adaptive. 
-
-For me, robotics is more than a career — it’s a way to merge physics, computation, and imagination to tackle real-world problems that matter
-
-
+## Research Interests:
+- Probablistic Deep Learning, Generative Diffusion / Flow Matching for Data Assimilation
+- Estimation and Bayesian Filtering
+- Legged locomotion
+- Optimal control
 
 ---
 
 ## Professional Summary
-Staff Robotics Hardware Engineer with 15+ years of experience designing and delivering humanoid, space-robotic, and aerospace/underwater robotic systems. Proven leader in cross-functional teams, driving full lifecycle development at Agility Robotics, NASA JPL, and Northrop Grumman.
+Staff Robotics Hardware Engineer with 15+ years of experience designing and delivering robotic and electromechanical systems. Proven leader in cross-functional teams, driving full lifecycle development at Agility Robotics, NASA JPL, and Northrop Grumman.
 
 Expertise in mechanical design, systems integration and test, analysis, complemented by PhD research in generative diffusion/flow matching for robotics estimation and control.
 
 ---
 
-## 🎓 Education
+## Education
 
 ![USC](https://img.shields.io/badge/University_of_Southern_California_(USC),_Los_Angeles,_CA-990000?style=for-the-badge&logo=university&logoColor=ffd700&color=990000)  
 **Ph.D., Mechanical Engineering (pre-candidate)** – Computational and Data Driven Discovery (CD3) Group  
